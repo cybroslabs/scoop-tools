@@ -1,0 +1,22 @@
+{
+    "version": "omqctl-v0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.3.0/omqctl_Windows_x86_64.zip",
+            "bin": [
+                "omqctl.exe"
+            ],
+            "hash": "6b48a9ddfb20976b859842d7c49de05c20f63c01157c3ad106d339694e07f251"
+        },
+        "arm64": {
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.3.0/omqctl_Windows_arm64.zip",
+            "bin": [
+                "omqctl.exe"
+            ],
+            "hash": "e298e82b9d5e8d21adb99673dbf6ebc4078db5eb567ad659b52afe6ad9b4767b"
+        }
+    },
+    "homepage": "https://www.cybroslabs.com/en/products/octopusmq",
+    "license": "Proprietary",
+    "description": "omqctl controls the OctopusMQ deployments."
+}
