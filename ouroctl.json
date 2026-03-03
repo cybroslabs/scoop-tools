@@ -1,0 +1,22 @@
+{
+    "version": "ouroctl-v0.25.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/ouroctl-v0.25.0/ouroctl_Windows_x86_64.zip",
+            "bin": [
+                "ouroctl.exe"
+            ],
+            "hash": "cdca582d7bee795851bc1d788bd91725102579fa17af59225adce2e38a85a2da"
+        },
+        "arm64": {
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/ouroctl-v0.25.0/ouroctl_Windows_arm64.zip",
+            "bin": [
+                "ouroctl.exe"
+            ],
+            "hash": "2b0cfda6569802fc0b490e4c3ffb0d5655e28b541cb57e0c14af27a91cd4016f"
+        }
+    },
+    "homepage": "https://www.cybroslabs.com/en/products/openhes",
+    "license": "Proprietary",
+    "description": "ouroctl controls the ouro platform deployments."
+}
