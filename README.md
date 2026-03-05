@@ -21,12 +21,6 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 scoop bucket add cybroslabs https://github.com/cybroslabs/scoop-tools
 ```
 
-### Browse available tools
-
-```powershell
-scoop search cybroslabs/
-```
-
 ### Install a tool
 
 ```powershell
