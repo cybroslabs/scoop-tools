@@ -1,19 +1,19 @@
 {
-    "version": "ouroctl-v0.25.4",
+    "version": "ouroctl-v0.25.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/ouroctl-v0.25.4/ouroctl_Windows_x86_64.zip",
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/ouroctl-v0.25.5/ouroctl_Windows_x86_64.zip",
             "bin": [
                 "ouroctl.exe"
             ],
-            "hash": "bdd200da8c01b1a9ab319ad5e3e1dadad1c9fbbeddff7da052de612ab0fc13cd"
+            "hash": "6be5d0ae505602a48507b334422e58f61dbf489330e77e725663e51c8814a51d"
         },
         "arm64": {
-            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/ouroctl-v0.25.4/ouroctl_Windows_arm64.zip",
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/ouroctl-v0.25.5/ouroctl_Windows_arm64.zip",
             "bin": [
                 "ouroctl.exe"
             ],
-            "hash": "161740c6017149dd9f1f0d2be4ed56af12b6508b53d30aa8c34def5d2ac5c2de"
+            "hash": "c57917f275dad70887e74f475fde9e5c3ef6817caca9b4a55b36232fa82fae3f"
         }
     },
     "homepage": "https://www.cybroslabs.com/en/products/openhes",
