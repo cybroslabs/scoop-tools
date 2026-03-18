@@ -1,19 +1,19 @@
 {
-    "version": "omqctl-v0.4.0",
+    "version": "omqctl-v0.4.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.4.0/omqctl_Windows_x86_64.zip",
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.4.1/omqctl_Windows_x86_64.zip",
             "bin": [
                 "omqctl.exe"
             ],
-            "hash": "431849f7f2dee49d7d0c7badbbb0f4933d122ec5ba6f65b4ac0ab90731dbe767"
+            "hash": "e7061e0f898bf6f483e8aca2e9e77a973cca5421e6f7b04ad561b22dca1a460b"
         },
         "arm64": {
-            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.4.0/omqctl_Windows_arm64.zip",
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.4.1/omqctl_Windows_arm64.zip",
             "bin": [
                 "omqctl.exe"
             ],
-            "hash": "b528b72c7de8e3886b924936d45fe8bacf21688858316ab5fe438812c586c3ad"
+            "hash": "f8c15426206ea42ef597815dace2d149392ed4e3b0769a950c18e22a1dc63242"
         }
     },
     "homepage": "https://www.cybroslabs.com/en/products/octopusmq",
