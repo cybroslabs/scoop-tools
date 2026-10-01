@@ -1,0 +1,22 @@
+{
+    "version": "omqctl-v0.8.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.8.0/kubectl-omq_Windows_x86_64.zip",
+            "bin": [
+                "kubectl-omq.exe"
+            ],
+            "hash": "d923a234c236b2ea389d74baa89a832c97bfdb0984dec7d70c66f92dd3364b6d"
+        },
+        "arm64": {
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.8.0/kubectl-omq_Windows_arm64.zip",
+            "bin": [
+                "kubectl-omq.exe"
+            ],
+            "hash": "b4cdec00633df4405e7aaabe98fdfe0ccdf5cced3187dcd954c9ca0afd935e19"
+        }
+    },
+    "homepage": "https://www.cybroslabs.com/en/products/octopusmq",
+    "license": "Proprietary",
+    "description": "kubectl plugin that manages OctopusMQ clusters in Kubernetes."
+}
