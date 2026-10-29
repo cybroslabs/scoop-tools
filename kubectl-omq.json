@@ -1,19 +1,19 @@
 {
-    "version": "omqctl-v0.8.3",
+    "version": "omqctl-v0.8.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.8.3/kubectl-omq_Windows_x86_64.zip",
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.8.4/kubectl-omq_Windows_x86_64.zip",
             "bin": [
                 "kubectl-omq.exe"
             ],
-            "hash": "c804a8e758936ec407a4d8bf169236128fed8d74d4391f5a03fb197c2a5efd7f"
+            "hash": "7e8de1116774de96d9acc2ccf7c4140ce3e82edd255fbfed9493894e30f8954f"
         },
         "arm64": {
-            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.8.3/kubectl-omq_Windows_arm64.zip",
+            "url": "https://github.com/cybroslabs/homebrew-tools/releases/download/omqctl-v0.8.4/kubectl-omq_Windows_arm64.zip",
             "bin": [
                 "kubectl-omq.exe"
             ],
-            "hash": "64fb06e5c65fb24491d4be5a5a15deabda8a5e38659ee35268d3caf2b8e1528d"
+            "hash": "52cb881e448a265d5953ecb0fe4f6e8f60a3fc8183b9edacbc856a8433609e68"
         }
     },
     "homepage": "https://www.cybroslabs.com/en/products/octopusmq",
